@@ -1,0 +1,87 @@
+﻿Order #,Item Code,Item Description,Qty Ordered,Qty OOS,Qty Delivered,Order Date,Order Time,Delivery Date,Delivery,Morning/Afternoon,Picking Start Time,Picking End Date,Picking End Time,Picker Name
+CA129312,5005873,Assorted Yakult 5s,1,0,1,1/8/19,11:34 AM,2/8/19,11:01 AM,Morning,11:36 PM,2/8/19,2:08 AM,jia jun 
+CE129329,5005873,Assorted Yakult 5s,1,0,1,1/8/19,1:01 PM,2/8/19,7:01 PM,Afternoon,7:01 PM,2/8/19,9:52 PM,julian 
+CC129370,5005873,Assorted Yakult 5s,10,0,10,1/8/19,4:43 PM,2/8/19,9:01 AM,Morning,1:15 AM,2/8/19,4:12 AM,julian 
+CE129399,5005873,Assorted Yakult 5s,2,0,2,1/8/19,8:14 PM,2/8/19,7:01 PM,Afternoon,7:02 PM,2/8/19,9:37 PM,william 
+CE129494,5005873,Assorted Yakult 5s,2,0,2,2/8/19,2:18 PM,3/8/19,9:01 AM,Morning,11:56 PM,3/8/19,12:33 AM,goh 
+CM129495,5005873,Assorted Yakult 5s,4,0,4,2/8/19,2:22 PM,5/8/19,9:01 AM,Morning,9:02 PM,5/8/19,4:22 AM,Ridani 
+CA129582,5005873,Assorted Yakult 5s,1,0,1,3/8/19,1:06 AM,4/8/19,7:01 PM,Afternoon,6:41 PM,4/8/19,9:11 PM,Francis 
+CE129658,5005873,Assorted Yakult 5s,1,0,1,3/8/19,2:07 PM,4/8/19,3:01 PM,Afternoon,6:20 PM,4/8/19,8:03 PM,Long 
+CE129717,5005873,Assorted Yakult 5s,1,0,1,3/8/19,8:36 PM,4/8/19,5:01 PM,Afternoon,5:02 PM,4/8/19,8:48 PM,max 
+CA129840,5005873,Assorted Yakult 5s,1,0,1,4/8/19,5:12 PM,5/8/19,3:01 PM,Afternoon,8:41 PM,5/8/19,9:51 PM,julian 
+CE129854,5005873,Assorted Yakult 5s,2,0,2,4/8/19,7:14 PM,5/8/19,3:01 PM,Afternoon,8:04 PM,5/8/19,10:19 PM,julian 
+CE129896,5005873,Assorted Yakult 5s,1,0,1,4/8/19,11:54 PM,5/8/19,5:01 PM,Afternoon,7:50 PM,5/8/19,9:14 PM,max 
+CA129978,5005873,Assorted Yakult 5s,1,0,1,5/8/19,1:34 PM,6/8/19,11:01 AM,Morning,11:19 PM,6/8/19,6:01 AM,max 
+CE130007,5005873,Assorted Yakult 5s,1,0,1,5/8/19,3:43 PM,6/8/19,11:01 AM,Morning,1:12 AM,6/8/19,5:46 AM,ashley 
+CE130012,5005873,Assorted Yakult 5s,1,0,1,5/8/19,3:53 PM,6/8/19,5:01 PM,Afternoon,7:59 PM,6/8/19,11:13 PM,julian 
+CE130058,5005873,Assorted Yakult 5s,2,0,2,5/8/19,8:31 PM,6/8/19,3:01 PM,Afternoon,6:06 PM,6/8/19,11:00 PM,yd 
+CA130062,5005873,Assorted Yakult 5s,4,0,4,5/8/19,8:46 PM,7/8/19,7:00 AM,Morning,11:14 PM,7/8/19,3:14 AM,ashley 
+CE130091,5005873,Assorted Yakult 5s,1,0,1,5/8/19,10:45 PM,6/8/19,3:01 PM,Afternoon,6:36 PM,6/8/19,6:52 PM,seth 
+CA130103,5005873,Assorted Yakult 5s,1,0,1,5/8/19,11:47 PM,6/8/19,7:01 PM,Afternoon,7:29 PM,6/8/19,9:59 PM,ashley 
+CA130117,5005873,Assorted Yakult 5s,2,0,2,6/8/19,2:29 AM,6/8/19,7:01 PM,Afternoon,6:18 PM,6/8/19,8:37 PM,rach 
+CE130128,5005873,Assorted Yakult 5s,2,0,2,6/8/19,8:20 AM,7/8/19,7:01 PM,Afternoon,8:11 PM,7/8/19,10:31 PM,lee 
+CC130149,5005873,Assorted Yakult 5s,4,0,4,6/8/19,11:05 AM,8/8/19,9:01 AM,Morning,10:45 PM,8/8/19,12:20 AM,cj 
+CE130159,5005873,Assorted Yakult 5s,2,0,2,6/8/19,11:56 AM,7/8/19,9:01 AM,Morning,10:56 PM,7/8/19,1:53 AM,seth 
+CE130214,5005873,Assorted Yakult 5s,2,0,2,6/8/19,4:09 PM,7/8/19,11:01 AM,Morning,12:19 AM,7/8/19,2:44 AM,Ying Jie 
+CA130229,5005873,Assorted Yakult 5s,1,0,1,6/8/19,6:00 PM,7/8/19,3:01 PM,Afternoon,5:24 PM,7/8/19,8:19 PM,lee 
+CE130293,5005873,Assorted Yakult 5s,1,0,1,6/8/19,10:19 PM,7/8/19,5:01 PM,Afternoon,6:21 PM,7/8/19,11:01 PM,goh 
+CE130310,5005873,Assorted Yakult 5s,1,0,1,6/8/19,11:32 PM,8/8/19,9:01 AM,Morning,12:09 AM,8/8/19,4:47 AM,cj 
+CE130316,5005873,Assorted Yakult 5s,2,0,2,7/8/19,12:10 AM,8/8/19,9:01 AM,Morning,2:20 AM,8/8/19,4:42 AM,wen bin 
+CE130342,5005873,Assorted Yakult 5s,2,0,2,7/8/19,8:55 AM,8/8/19,3:01 PM,Afternoon,6:23 PM,8/8/19,9:36 PM,goh 
+CA130350,5005873,Assorted Yakult 5s,4,0,4,7/8/19,9:57 AM,13/8/19,9:01 AM,Morning,11:02 PM,13/8/19,1:21 AM,Lee Wei 
+CA130410,5005873,Assorted Yakult 5s,2,0,2,7/8/19,2:53 PM,8/8/19,5:01 PM,Afternoon,6:50 PM,8/8/19,10:34 PM,brandon 
+CE130429,5005873,Assorted Yakult 5s,3,0,3,7/8/19,4:42 PM,8/8/19,3:01 PM,Afternoon,5:32 PM,8/8/19,8:17 PM,ashley 
+CE130438,5005873,Assorted Yakult 5s,2,0,2,7/8/19,5:58 PM,9/8/19,3:01 PM,Afternoon,6:34 PM,9/8/19,10:13 PM,cj 
+CE130449,5005873,Assorted Yakult 5s,1,0,1,7/8/19,6:38 PM,8/8/19,5:01 PM,Afternoon,6:43 PM,8/8/19,8:44 PM,su 
+CA130469,5005873,Assorted Yakult 5s,2,0,2,7/8/19,8:41 PM,8/8/19,3:01 PM,Afternoon,6:14 PM,8/8/19,10:02 PM,wen bin 
+CE130488,5005873,Assorted Yakult 5s,1,0,1,7/8/19,10:13 PM,8/8/19,5:01 PM,Afternoon,7:22 PM,8/8/19,9:53 PM,Mina 
+CE130624,5005873,Assorted Yakult 5s,2,0,2,8/8/19,3:13 PM,13/8/19,7:01 PM,Afternoon,7:41 PM,13/8/19,10:56 PM,Ken 
+CE130657,5005873,Assorted Yakult 5s,1,0,1,8/8/19,5:04 PM,9/8/19,3:01 PM,Afternoon,5:12 PM,9/8/19,8:34 PM,wen 
+CA130800,5005873,Assorted Yakult 5s,1,0,1,9/8/19,10:52 AM,10/8/19,9:01 AM,Morning,11:11 PM,10/8/19,4:56 AM,Francis 
+CE130814,5005873,Assorted Yakult 5s,1,0,1,9/8/19,12:16 PM,10/8/19,7:01 PM,Afternoon,7:53 PM,10/8/19,9:40 PM,ashley 
+CE130847,5005873,Assorted Yakult 5s,2,0,2,9/8/19,3:06 PM,10/8/19,11:01 AM,Morning,11:50 PM,10/8/19,3:10 AM,Francis 
+CC130863,5005873,Assorted Yakult 5s,3,0,3,9/8/19,4:35 PM,13/8/19,7:00 AM,Morning,11:34 PM,13/8/19,2:05 AM,brandon 
+CE130876,5005873,Assorted Yakult 5s,2,0,2,9/8/19,5:34 PM,10/8/19,3:01 PM,Afternoon,5:25 PM,10/8/19,7:53 PM,goh 
+CE130938,5005873,Assorted Yakult 5s,1,0,1,10/8/19,1:24 AM,11/8/19,11:01 AM,Morning,1:48 AM,11/8/19,4:08 AM,wen bin 
+CE130950,5005873,Assorted Yakult 5s,2,0,2,10/8/19,9:35 AM,11/8/19,9:01 AM,Morning,11:33 PM,11/8/19,3:58 AM,Lee Wei 
+CE131114,5005873,Assorted Yakult 5s,1,0,1,11/8/19,10:03 AM,12/8/19,5:01 PM,Afternoon,6:33 PM,12/8/19,9:01 PM,Ken 
+CE131151,5005873,Assorted Yakult 5s,1,0,1,11/8/19,1:55 PM,12/8/19,11:01 AM,Morning,12:20 AM,12/8/19,1:43 AM,Kenneth 
+CA131256,5005873,Assorted Yakult 5s,1,0,1,12/8/19,8:42 AM,13/8/19,9:01 AM,Morning,10:27 PM,13/8/19,12:48 AM,seth 
+CE131260,5005873,Assorted Yakult 5s,2,0,2,12/8/19,9:28 AM,13/8/19,7:00 AM,Morning,11:31 PM,13/8/19,2:33 AM,yd 
+CA131270,5005873,Assorted Yakult 5s,2,0,2,12/8/19,10:33 AM,13/8/19,11:01 AM,Morning,11:51 PM,13/8/19,3:29 AM,Lee Wei 
+CE131298,5005873,Assorted Yakult 5s,2,0,2,12/8/19,2:08 PM,14/8/19,11:01 AM,Morning,11:38 PM,14/8/19,2:48 AM,lee 
+CE131396,5005873,Assorted Yakult 5s,2,0,2,13/8/19,7:11 AM,19/8/19,5:01 PM,Afternoon,6:46 PM,19/8/19,8:35 PM,Junping 
+CE131440,5005873,Assorted Yakult 5s,1,0,1,13/8/19,11:52 AM,14/8/19,9:01 AM,Morning,12:19 AM,14/8/19,5:14 AM,bo yan 
+CE131452,5005873,Assorted Yakult 5s,2,0,2,13/8/19,1:01 PM,14/8/19,7:00 AM,Morning,9:42 PM,14/8/19,4:07 AM,seth 
+CE131545,5005873,Assorted Yakult 5s,2,0,2,13/8/19,8:28 PM,14/8/19,5:01 PM,Afternoon,6:13 PM,14/8/19,9:39 PM,cj 
+CE131554,5005873,Assorted Yakult 5s,2,0,2,13/8/19,8:58 PM,16/8/19,3:01 PM,Afternoon,5:35 PM,15/8/19,10:52 PM,goh 
+CE131565,5005873,Assorted Yakult 5s,1,0,1,13/8/19,10:00 PM,15/8/19,7:01 PM,Afternoon,8:09 PM,15/8/19,9:15 PM,yd 
+CA131645,5005873,Assorted Yakult 5s,3,0,3,14/8/19,11:21 AM,15/8/19,9:01 AM,Morning,10:57 PM,15/8/19,2:12 AM,goh 
+CA131666,5005873,Assorted Yakult 5s,4,0,4,14/8/19,12:39 PM,19/8/19,9:01 AM,Morning,9:03 PM,19/8/19,2:38 AM,bo yan 
+CE131726,5005873,Assorted Yakult 5s,1,0,1,14/8/19,6:26 PM,15/8/19,7:01 PM,Afternoon,6:34 PM,15/8/19,7:43 PM,yd 
+CC131868,5005873,Assorted Yakult 5s,3,0,3,15/8/19,1:59 PM,19/8/19,9:01 AM,Morning,9:23 PM,19/8/19,3:39 AM,nick 
+CE132047,5005873,Assorted Yakult 5s,2,0,2,16/8/19,1:49 PM,18/8/19,9:01 AM,Morning,10:27 PM,18/8/19,2:27 AM,celine 
+CE132061,5005873,Assorted Yakult 5s,1,0,1,16/8/19,3:23 PM,17/8/19,3:01 PM,Afternoon,6:05 PM,17/8/19,10:21 PM,NULL
+CE132088,5005873,Assorted Yakult 5s,2,0,2,16/8/19,5:01 PM,17/8/19,3:01 PM,Afternoon,7:26 PM,17/8/19,8:35 PM,lee 
+CA132270,5005873,Assorted Yakult 5s,2,0,2,17/8/19,4:13 PM,18/8/19,7:01 PM,Afternoon,7:53 PM,18/8/19,10:17 PM,cj 
+CA132332,5005873,Assorted Yakult 5s,1,0,1,17/8/19,9:23 PM,18/8/19,5:01 PM,Afternoon,5:26 PM,18/8/19,10:24 PM,trudy 
+CE132368,5005873,Assorted Yakult 5s,3,0,3,18/8/19,6:44 AM,18/8/19,7:01 PM,Afternoon,7:35 PM,18/8/19,10:25 PM,rachel 
+CE132412,5005873,Assorted Yakult 5s,2,0,2,18/8/19,12:14 PM,19/8/19,3:01 PM,Afternoon,7:39 PM,19/8/19,10:05 PM,Lee Wei 
+CA132451,5005873,Assorted Yakult 5s,2,0,2,18/8/19,3:19 PM,19/8/19,5:01 PM,Afternoon,7:08 PM,19/8/19,10:26 PM,ashley 
+CA132480,5005873,Assorted Yakult 5s,2,0,2,18/8/19,5:14 PM,19/8/19,7:01 PM,Afternoon,6:15 PM,19/8/19,8:54 PM,celine 
+CE132507,5005873,Assorted Yakult 5s,2,0,2,18/8/19,7:08 PM,20/8/19,7:00 AM,Morning,9:35 PM,20/8/19,3:01 AM,Ken 
+CE132578,5005873,Assorted Yakult 5s,1,0,1,19/8/19,6:34 AM,20/8/19,7:01 PM,Afternoon,6:13 PM,20/8/19,9:37 PM,bo yan 
+CE132661,5005873,Assorted Yakult 5s,1,0,1,19/8/19,2:59 PM,20/8/19,7:01 PM,Afternoon,6:57 PM,20/8/19,10:39 PM,rachel 
+CA132665,5005873,Assorted Yakult 5s,2,0,2,19/8/19,3:14 PM,20/8/19,3:01 PM,Afternoon,7:11 PM,20/8/19,9:03 PM,seth 
+CE132714,5005873,Assorted Yakult 5s,1,0,1,19/8/19,6:16 PM,20/8/19,5:01 PM,Afternoon,6:13 PM,20/8/19,9:31 PM,darren 
+CE132747,5005873,Assorted Yakult 5s,2,0,2,19/8/19,9:12 PM,21/8/19,7:01 PM,Afternoon,6:07 PM,21/8/19,9:23 PM,celine 
+CE132818,5005873,Assorted Yakult 5s,4,0,4,20/8/19,10:47 AM,21/8/19,11:01 AM,Morning,8:51 PM,21/8/19,2:13 AM,rachel 
+CE132838,5005873,Assorted Yakult 5s,1,0,1,20/8/19,12:33 PM,21/8/19,11:01 AM,Morning,12:28 AM,21/8/19,3:23 AM,Kenneth 
+CA132860,5005873,Assorted Yakult 5s,2,0,2,20/8/19,3:19 PM,21/8/19,3:01 PM,Afternoon,5:17 PM,21/8/19,5:37 PM,darren 
+CC132863,5005873,Assorted Yakult 5s,1,0,1,20/8/19,3:25 PM,21/8/19,3:01 PM,Afternoon,6:02 PM,21/8/19,8:08 PM,goh 
+CA132972,5005873,Assorted Yakult 5s,2,0,2,21/8/19,7:53 AM,24/8/19,7:01 PM,Afternoon,5:40 PM,24/8/19,9:35 PM,rach 
+CE133066,5005873,Assorted Yakult 5s,5,0,5,21/8/19,3:18 PM,22/8/19,9:01 AM,Morning,11:36 PM,22/8/19,1:45 AM,brandon 
+CA133095,5005873,Assorted Yakult 5s,2,0,2,21/8/19,5:50 PM,22/8/19,3:01 PM,Afternoon,5:52 PM,22/8/19,9:12 PM,rachel 
+CA133134,5005873,Assorted Yakult 5s,2,0,2,21/8/19,9:33 PM,22/8/19,5:01 PM,Afternoon,6:31 PM,22/8/19,7:31 PM,ashley 
+CA133766,5005873,Assorted Yakult 5s,1,0,1,25/8/19,3:41 PM,28/8/19,11:01 AM,Morning,1:03 AM,28/8/19,2:57 AM,bapster  
+CA134721,5005873,Assorted Yakult 5s,2,0,2,29/8/19,7:24 PM,31/8/19,9:01 AM,Morning,10:21 PM,31/8/19,12:58 AM,SEVEN 
